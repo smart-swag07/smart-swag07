@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 About Me  
-- 🔭 Currently working on **Raitha – AI-powered Smart Farming Assistant**  
+
 - 🌱 Learning **Machine Learning, Deep Learning, NLP, Cloud (AWS & GCP)**  
 - 👯 Open to collaborate on **AI/ML projects in NLP, Computer Vision & Analytics**  
 - 💬 Ask me about **Python, AI/ML, Data Analytics**  
